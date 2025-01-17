@@ -1,5 +1,9 @@
 # 代理补充列表
 
+# fastvpn 服务器查询
+DOMAIN-SUFFIX,ncapi.io
+DOMAIN-SUFFIX,toolara.net
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
