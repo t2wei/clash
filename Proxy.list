@@ -4,6 +4,15 @@
 DOMAIN-SUFFIX,ncapi.io
 DOMAIN-SUFFIX,toolara.net
 
+# for coreelec
+DOMAIN-SUFFIX,coreelec.org
+DOMAIN-SUFFIX,rwth-aachen.de
+DOMAIN-SUFFIX,netcologne.de
+DOMAIN-SUFFIX,dotsrc.org
+DOMAIN-SUFFIX,hosteurope.de
+DOMAIN-SUFFIX,kodi.tv
+DOMAIN-SUFFIX,princeton.edu
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
