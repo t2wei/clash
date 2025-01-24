@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,dotsrc.org
 DOMAIN-SUFFIX,hosteurope.de
 DOMAIN-SUFFIX,kodi.tv
 DOMAIN-SUFFIX,princeton.edu
+DOMAIN-SUFFIX,fanart.tv
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
