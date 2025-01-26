@@ -13,11 +13,15 @@ DOMAIN-SUFFIX,hosteurope.de
 DOMAIN-SUFFIX,kodi.tv
 DOMAIN-SUFFIX,princeton.edu
 DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,streamlock.net
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
+IP-CIDR,88.212.7.11/24,no-resolve
+IP-CIDR,190.11.225.124/24,no-resolve
+
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
