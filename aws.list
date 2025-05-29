@@ -1,0 +1,17 @@
+# 内容：aws.list
+# 域名关键字匹配
+
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazonaws.com.cn
+DOMAIN-SUFFIX,amazonaws.cn
+DOMAIN-SUFFIX,amazonaws.jp
+DOMAIN-SUFFIX,amazonaws.me
+DOMAIN-SUFFIX,amazonaws.net
+DOMAIN-SUFFIX,amazonaws.org
+DOMAIN-SUFFIX,amazonaws.us
+DOMAIN-SUFFIX,amazonaws.eu
+
+DOMAIN-KEYWORD,aws
+DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,amazonaws
