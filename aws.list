@@ -3,7 +3,6 @@
 
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazonaws.com.cn
 DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazonaws.jp
 DOMAIN-SUFFIX,amazonaws.me
@@ -15,3 +14,5 @@ DOMAIN-SUFFIX,amazonaws.eu
 DOMAIN-KEYWORD,aws
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,amazonaws
+
+DOMAIN-SUFFIX,oxsci.ai
