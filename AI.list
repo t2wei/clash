@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.com
 
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
